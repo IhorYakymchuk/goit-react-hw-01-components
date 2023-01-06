@@ -16,18 +16,18 @@
   margin-bottom: 0;
 }
 
-.statusOffline {
-  background-color: red;
+.status {
   width: 15px;
   height: 15px;
   border-radius: 50%;
 }
 
-.statusOnline {
+.online {
   background-color: green;
-  width: 15px;
-  height: 15px;
-  border-radius: 50%;
+}
+
+.offline {
+  background-color: red;
 }
 
 .avatar {
